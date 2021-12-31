@@ -1,0 +1,37 @@
+nav {
+    color: red;
+    font-size: 35px;
+
+}
+.article {
+    color: black;
+    font-style: bold;
+    font-size: large;
+}
+.p1 {
+    color:red;
+    font-size: larger;
+}
+.body {
+    text-align: center;
+}
+
+.baslik {
+    font-size: 50px;
+    color: red;
+}
+.p2 {
+    color: black;
+    font-size: 40px;
+    text-decoration: underline;
+}
+.a {
+    font-size: 30px;
+}
+.h1 {
+    color: black;
+    font-size: 60px;
+}
+.hakp {
+    font-size: 30px;
+}
